@@ -1,1 +1,2 @@
-# MyChatbot
+A chatbot is a computer program that understands the intent of your query to answer with a solution. Chatbots are the most popular applications of Natural Language Processing in the industry.
+Creating an end-to-end Chatbot involves collecting data, choosing a programming language and NLP tools, training the chatbot, and testing and refining it before making it available to users.
